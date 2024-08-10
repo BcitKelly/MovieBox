@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Kelly Tan",
+        "email": "kelly@gmail.com",
+        "city": "Vancouver",
+        "password": "kelly1234",
+        "isLogined": true
+    },
+    {
+        "id": "2",
+        "name": "Jimmy Smith",
+        "email": "jimmy@gmail.com",
+        "city": "Burnaby",
+        "password": "jimmy1234",
+       "isLogined": false
+    },
+    {
+        "id": "3",
+        "name": "John Lee",
+        "email": "john@gmail.com",
+        "city": "Vancouver",
+        "password": "john1234",
+        "isLogined": false
+    }
+]
+

@@ -1,0 +1,39 @@
+[
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "eventId": 1,
+        "isRegistered": true
+    },
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "eventId": 3,
+        "isRegistered": false
+    },
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "eventId": 5,
+        "isRegistered": false
+    },
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "eventId": 7,
+        "isRegistered": true
+    },
+    {
+        "userId": "jCmySSvSF1ZbJm5cy2ygsRY7sRD2",
+        "eventId": 2,
+        "isRegistered": false
+    },
+    {
+        "userId": "jCmySSvSF1ZbJm5cy2ygsRY7sRD2",
+        "eventId": 4,
+        "isRegistered": true
+    },
+    {
+        "userId": "jCmySSvSF1ZbJm5cy2ygsRY7sRD2",
+        "eventId": 6,
+        "isRegistered": false
+    }
+
+]
+

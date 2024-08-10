@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>490921846966-ikff8nuc3310nc36itsamdbakistggd6.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.490921846966-ikff8nuc3310nc36itsamdbakistggd6</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAxZQ7lKHS8GMnV7x87uTFr8QHBfmg54xw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>490921846966</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>kelly.tan.moviebox</string>
+	<key>PROJECT_ID</key>
+	<string>moviebox-c1a50</string>
+	<key>STORAGE_BUCKET</key>
+	<string>moviebox-c1a50.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:490921846966:ios:fa4f375d23d707e1da9e17</string>
+</dict>
+</plist>

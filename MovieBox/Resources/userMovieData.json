@@ -1,0 +1,46 @@
+[
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "movieId": 533535,
+        "status": "ForLater",
+        "statusDate": "2024-04-20 23:30:33 +0200"
+    },
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "movieId": 1066262,
+        "status": "ForLater",
+        "statusDate": "2024-04-20 23:30:33 +0200"
+    },
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "movieId": 974262,
+        "status": "ForLater",
+        "statusDate": "2024-04-20 23:30:33 +0200"
+    },
+    {
+        "userId": "mVLf7bmqvIad4lraPYZBc9hNQRM2",
+        "movieId": 1022789,
+        "status": "ForLater",
+        "statusDate": "2024-04-20 23:30:33 +0200"
+    },
+    {
+        "userId": "jCmySSvSF1ZbJm5cy2ygsRY7sRD2",
+        "movieId": 533535,
+        "status": "ForLater",
+        "statusDate": "2024-08-20 23:30:33 +0200"
+    },
+    {
+        "userId": "jCmySSvSF1ZbJm5cy2ygsRY7sRD2",
+        "movieId": 1022789,
+        "status": "ForLater",
+        "statusDate": "2024-08-20"
+    },
+    {
+        "userId": "jCmySSvSF1ZbJm5cy2ygsRY7sRD2",
+        "movieId": 1066262,
+        "status": "ForLater",
+        "statusDate": "2024-04-20"
+    }
+
+]
+

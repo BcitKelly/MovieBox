@@ -1,0 +1,155 @@
+[
+    {
+        "id": 1,
+        "title": "Happy Hour on Main",
+        "date": "Saturday, Aug. 3, 2024",
+        "time": "4:00 - 6:00 PM",
+        "address": "4210 Main Street",
+        "city": "Vancouver",
+        "imageName": "movieClub",
+        "description": "Fun spot, great ambience and good food. Your first drink free, value up to $10.00. Please PLEEZ take your RSVP seriously. Numbers are limited to nine so if you flake out that’s denying someone else a chance to attend and get a free drink. Be responsible and fair.",
+        "isFavorite": false,
+        "category": "MeetUp",
+        "coordinates": {
+            "longitude": -123.1008744,
+            "latitude": 49.2474187
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 2,
+        "title": "Movie Fans Club Meetup",
+        "date": "Aug. 12, 2024",
+        "time": "6:00 PM",
+        "address": "3480 Gilmore Way",
+        "city": "Burnaby",
+        "imageName": "movieClub",
+        "description": "Fun spot, great ambience and good food. Your first drink free, value up to $10.00. Please PLEEZ take your RSVP seriously. Numbers are limited to nine so if you flake out that’s denying someone else a chance to attend and get a free drink. Be responsible and fair.",
+        "isFavorite": false,
+        "category": "MeetUp",
+        "coordinates": {
+            "longitude": -123.012502,
+            "latitude": 49.2535179
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 3,
+        "title": "Outdoor Movie - Princess Diaries",
+        "date": "Tuesday, Aug. 27, 2024",
+        "time": "5:30 - 10:30 PM",
+        "address": "Second Beach - Stanley Park",
+        "city": "Vancouver",
+        "imageName": "movieNight",
+        "description": "Enjoy the Ultimate VIP Outdoor Movie Experience in Stanley Park!",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.1529739,
+            "latitude": 49.2535179
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 4,
+        "title": "Drive-in Movie: Jurassic Park",
+        "date": "Tuesday, Aug. 27, 2024",
+        "time": "8:30 - 10:30 PM",
+        "address": "Lansdowne Centre - 5300 No. 3 Road",
+        "city": "Richmond",
+        "imageName": "movieNight",
+        "description": "Support the Canada Blood Services and enjoy a timeless Drive-in experience at the Lansdowne Centre Parking Lot.",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.1349917,
+            "latitude": 49.2943537
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 5,
+        "title": "Parkland Sunset Cinema",
+        "date": "Saturday, Aug. 17, 2024",
+        "time": "5:30 - 10:30 PM",
+        "address": "2500 Willingdon Ave",
+        "city": "Burnaby",
+        "imageName": "movieNight",
+        "description": "Enjoy the Ultimate VIP Outdoor Movie Experience in Parkland Park!",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.0008066,
+            "latitude": 49.2841774
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 6,
+        "title": "Summer Cinima - Mean Girls",
+        "date": "Friday, Aug. 2, 2024",
+        "time": "8:00 PM",
+        "address": "Conference Park, 2500 Willingdon Ave",
+        "city": "Burnaby",
+        "imageName": "movieNight",
+        "description": "It's movie magic time! Summer Cinema kicks off at Confederation Park on Auguest 2. Bring a blanket or chair, some movie snacks and enjoy the show. Free admission! Event takes place rain or shine. Movie start at 8:15 pm.",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.0008066,
+            "latitude": 49.2841774
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 7,
+        "title": "Summer Cinima - Barbie",
+        "date": "Friday, Aug. 16, 2024",
+        "time": "8:00 : 10:00 PM",
+        "address": "Civic Square, 6100 Willingdon Ave",
+        "city": "Burnaby",
+        "imageName": "movieNight",
+        "description": "It's movie magic time! Summer Cinema holds at Civic Square on Friday evenings this August. Bring a blanket or chair, some movie snacks and enjoy the show. Free admission! Event takes place rain or shine. Movies start at 8:15 pm.",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.0064146,
+            "latitude": 49.2281608
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 8,
+        "title": "Summer Cinima - Wonka",
+        "date": "Friday, Aug. 23, 2024",
+        "time": "8:00 - 10:00 PM",
+        "address": "Civic Square, 6100 Willingdon Ave",
+        "city": "Burnaby",
+        "imageName": "movieNight",
+        "description": "It's movie magic time! Summer Cinema holds at Civic Square on Friday evenings this August. Bring a blanket or chair, some movie snacks and enjoy the show. Free admission! Event takes place rain or shine. Movies start at 8:15 pm.",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.0064146,
+            "latitude": 49.2281608
+        },
+        "isRegistered": false
+    },
+    {
+        "id": 9,
+        "title": "Summer Cinima - Sonic 2",
+        "date": "Friday, Aug. 23, 2024",
+        "time": "8:00 - 10:00 PM",
+        "address": "Civic Square, 6100 Willingdon Ave",
+        "city": "Burnaby",
+        "imageName": "movieNight",
+        "description": "It's movie magic time! Summer Cinema holds at Civic Square on Friday evenings this August. Bring a blanket or chair, some movie snacks and enjoy the show. Free admission! Event takes place rain or shine. Movies start at 8:15 pm.",
+        "isFavorite": false,
+        "category": "MovieNight",
+        "coordinates": {
+            "longitude": -123.0064146,
+            "latitude": 49.2281608
+        },
+        "isRegistered": false
+    }
+]
